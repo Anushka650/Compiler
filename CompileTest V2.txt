@@ -1,0 +1,37 @@
+//Anushka Varde
+//Compiler Input
+int a=10;
+int b=5;
+print a;
+print " - 1 = ";
+a=a-1;
+print a;
+printNewLine;
+String str1="hello";
+print "enter a number: ";
+int g=system.in;
+print g;
+print " * 5 = ";
+print g*5;
+printNewLine;
+//test
+String k="hello";
+while (a>b){
+print a;
+printNewLine;
+a=a-1;
+if (a==b+1){
+print "last loop";
+printNewLine;
+}
+}
+if (a>1){
+print "enter a string:";
+String h=system.in;
+print h;
+printNewLine;
+if (k.equals.str1){
+print "yes";
+printNewLine;
+}
+}
